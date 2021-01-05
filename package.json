@@ -18,7 +18,7 @@
     "@fullcalendar/moment": "^4.1.0",
     "@fullcalendar/timegrid": "^4.1.0",
     "@fullcalendar/vue": "^4.1.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "element-ui": "^2.8.2",
     "moment": "^2.24.0",
     "vue": "^2.5.2",
