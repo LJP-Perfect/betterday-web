@@ -20,7 +20,7 @@
     "@fullcalendar/vue": "^4.1.1",
     "axios": "^0.18.0",
     "element-ui": "^2.8.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "vue": "^2.5.2",
     "vue-router": "^3.0.6",
     "vue-toasted": "^1.1.27",
